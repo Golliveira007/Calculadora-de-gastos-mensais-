@@ -2,15 +2,15 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f9;
-    color: #333;
+    background-color:cadetblue;
+    color: black;
 }
 
 .container {
     max-width: 600px;
     margin: 20px auto;
     padding: 20px;
-    background: #fff;
+    background: #228B22;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -43,7 +43,7 @@ form {
 button {
     width: 100%;
     padding: 10px;
-    background-color: #007bff;
+    background-color: cadetblue;
     color: #fff;
     border: none;
     border-radius: 4px;
